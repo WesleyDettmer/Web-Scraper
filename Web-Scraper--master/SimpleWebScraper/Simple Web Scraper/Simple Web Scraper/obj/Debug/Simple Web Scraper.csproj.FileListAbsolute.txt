@@ -1,0 +1,12 @@
+C:\Users\Programming\Desktop\Projetos C#\Simple Web Scraper\Simple Web Scraper\bin\Debug\Simple Web Scraper.exe.config
+C:\Users\Programming\Desktop\Projetos C#\Simple Web Scraper\Simple Web Scraper\bin\Debug\Simple Web Scraper.exe
+C:\Users\Programming\Desktop\Projetos C#\Simple Web Scraper\Simple Web Scraper\bin\Debug\Simple Web Scraper.pdb
+C:\Users\Programming\Desktop\Projetos C#\Simple Web Scraper\Simple Web Scraper\obj\Debug\Simple Web Scraper.csprojResolveAssemblyReference.cache
+C:\Users\Programming\Desktop\Projetos C#\Simple Web Scraper\Simple Web Scraper\obj\Debug\Simple Web Scraper.exe
+C:\Users\Programming\Desktop\Projetos C#\Simple Web Scraper\Simple Web Scraper\obj\Debug\Simple Web Scraper.pdb
+C:\Users\wesley.dettmer\Desktop\Web-Scraper--master\Simple Web Scraper\Simple Web Scraper\bin\Debug\Simple Web Scraper.exe.config
+C:\Users\wesley.dettmer\Desktop\Web-Scraper--master\Simple Web Scraper\Simple Web Scraper\obj\Debug\Simple Web Scraper.exe
+C:\Users\wesley.dettmer\Desktop\Web-Scraper--master\Simple Web Scraper\Simple Web Scraper\obj\Debug\Simple Web Scraper.pdb
+C:\Users\wesley.dettmer\Desktop\Web-Scraper--master\Simple Web Scraper\Simple Web Scraper\bin\Debug\Simple Web Scraper.exe
+C:\Users\wesley.dettmer\Desktop\Web-Scraper--master\Simple Web Scraper\Simple Web Scraper\bin\Debug\Simple Web Scraper.pdb
+C:\Users\wesley.dettmer\Desktop\Web-Scraper--master\Simple Web Scraper\Simple Web Scraper\obj\Debug\Simple Web Scraper.csprojResolveAssemblyReference.cache
