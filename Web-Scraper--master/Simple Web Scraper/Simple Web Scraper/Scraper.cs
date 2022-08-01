@@ -15,7 +15,7 @@ namespace Web_scraper
         {
             //
             String u;
-            String h = "https://";
+            String h = "https:///";
             Console.WriteLine(h);
             u = Console.ReadLine();
             // Código para "minerar" informação.
